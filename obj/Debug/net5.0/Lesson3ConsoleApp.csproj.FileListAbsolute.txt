@@ -1,0 +1,16 @@
+D:\alif C#\3rd Lesson\Lesson3HomeWork\Lesson3ConsoleApp\bin\Debug\net5.0\Lesson3ConsoleApp.exe
+D:\alif C#\3rd Lesson\Lesson3HomeWork\Lesson3ConsoleApp\bin\Debug\net5.0\Lesson3ConsoleApp.deps.json
+D:\alif C#\3rd Lesson\Lesson3HomeWork\Lesson3ConsoleApp\bin\Debug\net5.0\Lesson3ConsoleApp.runtimeconfig.json
+D:\alif C#\3rd Lesson\Lesson3HomeWork\Lesson3ConsoleApp\bin\Debug\net5.0\Lesson3ConsoleApp.runtimeconfig.dev.json
+D:\alif C#\3rd Lesson\Lesson3HomeWork\Lesson3ConsoleApp\bin\Debug\net5.0\Lesson3ConsoleApp.dll
+D:\alif C#\3rd Lesson\Lesson3HomeWork\Lesson3ConsoleApp\bin\Debug\net5.0\ref\Lesson3ConsoleApp.dll
+D:\alif C#\3rd Lesson\Lesson3HomeWork\Lesson3ConsoleApp\bin\Debug\net5.0\Lesson3ConsoleApp.pdb
+D:\alif C#\3rd Lesson\Lesson3HomeWork\Lesson3ConsoleApp\obj\Debug\net5.0\Lesson3ConsoleApp.csproj.AssemblyReference.cache
+D:\alif C#\3rd Lesson\Lesson3HomeWork\Lesson3ConsoleApp\obj\Debug\net5.0\Lesson3ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\alif C#\3rd Lesson\Lesson3HomeWork\Lesson3ConsoleApp\obj\Debug\net5.0\Lesson3ConsoleApp.AssemblyInfoInputs.cache
+D:\alif C#\3rd Lesson\Lesson3HomeWork\Lesson3ConsoleApp\obj\Debug\net5.0\Lesson3ConsoleApp.AssemblyInfo.cs
+D:\alif C#\3rd Lesson\Lesson3HomeWork\Lesson3ConsoleApp\obj\Debug\net5.0\Lesson3ConsoleApp.csproj.CoreCompileInputs.cache
+D:\alif C#\3rd Lesson\Lesson3HomeWork\Lesson3ConsoleApp\obj\Debug\net5.0\Lesson3ConsoleApp.dll
+D:\alif C#\3rd Lesson\Lesson3HomeWork\Lesson3ConsoleApp\obj\Debug\net5.0\ref\Lesson3ConsoleApp.dll
+D:\alif C#\3rd Lesson\Lesson3HomeWork\Lesson3ConsoleApp\obj\Debug\net5.0\Lesson3ConsoleApp.pdb
+D:\alif C#\3rd Lesson\Lesson3HomeWork\Lesson3ConsoleApp\obj\Debug\net5.0\Lesson3ConsoleApp.genruntimeconfig.cache
